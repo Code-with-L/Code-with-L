@@ -22,4 +22,5 @@ I like messing around with **websites, UI design, and app development**. Sometim
 ~Asked Gemini for developer jokes. It gave me LinkedIn jokes. I asked for humor, not a career announcement.
 
 Code-with-L — powered by questionable decisions and surprisingly functional code.
+
 More links coming soon /ᐠ ᵔ ˕ ᵔマ♪
