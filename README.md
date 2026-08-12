@@ -14,7 +14,7 @@ I like messing around with **websites, UI design, and app development**. Sometim
 ~I asked AI to fix one bug. It created three new files and a personality.
 ~I understand approximately 14% of this codebase, but that’s enough to be dangerous.
 ~My version control system:
-"git commit -m "AI made some changes I don't fully understand but the page loads now"
+"git commit -m "AI made some changes I don't fully understand but the page loads now".
 ~Asked Gemini for developer jokes. It gave me LinkedIn jokes. I asked for humor, not a career announcement.
 
 Code-with-L — powered by questionable decisions and surprisingly functional code.
