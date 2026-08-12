@@ -1,4 +1,5 @@
-# Hey, nerds 👋
+# Hey, nerds 👋. <img width="248" height="200" alt="For when you see things that can not be unseen" src="https://github.com/user-attachments/assets/12f335cc-6031-4a3b-b0e4-f42810956ce4" />
+
 
 I make websites, design interfaces, build apps, and occasionally break things in the process.
 
