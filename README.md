@@ -9,5 +9,7 @@ I like messing around with **websites, UI design, and app development**. Sometim
 * **Podium** — A project focused on design and creating a clean user experience.
 
 Apparently, Gemini-induced headaches come with a daily subscription.
+
 vibe coding
+
 More links coming soon /ᐠ ᵔ ˕ ᵔマ♪
