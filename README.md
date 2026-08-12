@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, nerds 👋
 
-<!--
-**Code-with-L/Code-with-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make websites, design interfaces, build apps, and occasionally break things in the process.
 
-Here are some ideas to get you started:
+I'm currently learning **Flutter** and getting better at turning ideas into things people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like messing around with **websites, UI design, and app development**. Sometimes I have an idea and just have to build it. Sometimes the idea works. Sometimes... we don't talk about it. 😭
+
+### Here's something I've made that you might like:
+
+* **Podium** — A project focused on design and creating a clean user experience.
+
+I'm currently learning, building, breaking, fixing, and repeating.
+
+More links coming soon 👀
+
