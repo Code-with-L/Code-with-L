@@ -5,7 +5,7 @@ I'm currently focusing on design, due to the age of AI as far it has take my cod
 Since i got this laptop i have made alot of progress in building websites, apps and other tools. If want to know my set up of AI tools and workflow and prompts i can guide you for free.
 
 ~My version control system:
-"git commit -m "AI made some changes I don't fully understand but the page loads now".
+"git commit -m "AI made some changes I don't fully understand but the page loads now". am kidding
 
 The project that lead me to the Vibecoding Quest was a client who was willing to pay 10k for my work, i did not give my work as generic ai slop, i gave some hard work in finding way to build the website as it was my first time building and hosting live. It was a success and got paid, plus client was happy. This pushed me from comfort zone and with that single leap of faith i know am capable.
 
